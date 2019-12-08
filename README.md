@@ -4,7 +4,14 @@ VCS Project for CECS 543 Sec 07 11646
 
 # Intro
 
-Create a repository for the given project source tree (including all its files and their folder paths) within the project.
+A simulated Version Control which allows user to check-in, check-out, merge, label commits.
+
+# Technology
+
+- Node JS
+- Express
+- Javascript
+- Bootstrap
 
 # Authors
 
@@ -12,7 +19,7 @@ Liam Nguyen | Matt Nguyen | Marco Curci | Dennis Lo
 
 # Project Demo
 
-- Live version: 
+- Live version:
   - Follow GUIDE.
 - Manual by terminal:
   - Follow step 1 and 2 of guide
